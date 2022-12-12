@@ -86,9 +86,9 @@ function setup() {
   
  // button2.mousePress(drop);
   
-  button2.mouseClick(drop);
+ // button2.mouseClick(drop);
 
-  //button2.mouseClicked(drop);
+  button2.mouseClicked(drop);
 
   ellipseMode(RADIUS);
 }
